@@ -1,0 +1,25 @@
+# I had to dig around for quite some time online to figure out the name of this dang thing, so enjoy the wtf moment I had.
+# Militech Canto
+Items.HauntedCyberdeck_Rare.variants:
+  - Variants.Humanity0Cost
+
+Items.HauntedCyberdeck_RarePlus.variants:
+  - Variants.Humanity0Cost
+
+Items.HauntedCyberdeck_Epic.variants:
+  - Variants.Humanity0Cost
+
+Items.HauntedCyberdeck_EpicPlus.variants:
+  - Variants.Humanity0Cost
+
+Items.HauntedCyberdeck_Legendary.variants:
+  - Variants.Humanity0Cost
+
+Items.HauntedCyberdeck_LegendaryPlus.variants:
+  - Variants.Humanity0Cost
+
+Items.HauntedCyberdeck_LegendaryPlusPlus.variants:
+  - Variants.Humanity0Cost
+
+Items.HauntedCyberdeck.variants:
+  - Variants.Humanity0Cost
